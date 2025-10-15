@@ -1,10 +1,6 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <img src="/github-header-banner.png" alt="Header Banner" width="100%" style="border-radius: 10px;"/>
+</p>
 
 ###
 
